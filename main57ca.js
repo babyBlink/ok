@@ -624,7 +624,7 @@ window.onload = function() {
 }
 
 function getreflink() {
-    document.getElementById('refaddresscopy').value = 'https://babyBlinkex.com/?ref=' + document.getElementById('refaddress').value;
+    document.getElementById('refaddresscopy').value = 'https://babyBlink.org/?ref=' + document.getElementById('refaddress').value;
 }
 
 function copyToClipboard(id) {
